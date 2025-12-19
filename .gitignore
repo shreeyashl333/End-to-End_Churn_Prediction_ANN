@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv
+venv/
+conda-env/
+env/
+e2e-dl-ann
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Streamlit
+.streamlit/
